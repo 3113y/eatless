@@ -1,0 +1,14 @@
+<data>
+    
+    <!-- Items Start -->
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="1" Name="Isaac the shard" Image="../resources/gfx/items/collectibles/isaac.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="2" Name="Tainted Isaac the shard" Image="../resources/gfx/items/collectibles/Tainted Isaac.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="3" Name="Magdalene the shard" Image="../resources/gfx/items/collectibles/Magdalene.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="4" Name="Tainted Magdalene the shard" Image="../resources/gfx/items/collectibles/Tainted Magdalene.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="5" Name="Cain the shard" Image="../resources/gfx/items/collectibles/Cain.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="6" Name="Tainted Cain the shard" Image="../resources/gfx/items/collectibles/Tainted Cain.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="14" Name="Judas the shard(Evil Desires)" Image="../resources/gfx/items/collectibles/Judas.png" Metadata="1" />
+    <entity Kind="shard Items" Group="Active Items" ID="7030" Variant="100" Subtype="16" Name="Deposit card" Image="../resources/gfx/items/collectibles/Card.png" Metadata="1" />
+   
+
+</data>

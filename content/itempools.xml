@@ -1,0 +1,147 @@
+
+<!-- 		<Item Name="" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>			-->	
+
+
+
+<ItemPools>
+
+    <Pool 
+	Name="treasure"><!--宝箱房-->
+
+	</Pool>
+
+	<Pool 
+	Name="shop"><!--商店-->
+	
+	</Pool>
+
+	<Pool 
+	Name="boss"><!--boss-->
+
+	</Pool>
+
+	<Pool 
+	Name="angel"><!--天使房-->
+
+	</Pool>
+
+	<Pool 
+	Name="devil"><!--恶魔房-->
+
+	</Pool>
+
+    <Pool 
+	Name="planetarium"><!--天文馆-->
+
+	</Pool>
+
+	<Pool 
+	Name="redChest"><!--红箱子-->
+
+	</Pool>
+
+	<Pool 
+	Name="rottenBeggar"><!--腐烂乞丐-->
+
+	</Pool>
+
+	<Pool 
+	Name="beggar"><!-- 乞丐-->
+
+	</Pool>
+
+	<Pool 
+	Name="demonBeggar"><!-- 黑乞丐-->
+
+	</Pool>
+
+	<Pool 
+	Name="craneGame"><!-- 赌博机器-->
+
+	</Pool>
+
+	<Pool 
+	Name="bombBum"><!-- 炸弹乞丐-->
+
+	</Pool>
+
+	<Pool 
+	Name="keyMaster"><!-- 钥匙乞丐-->
+
+	</Pool>
+
+	<Pool 
+	Name="batteryBum"><!-- 电池乞丐-->
+
+	</Pool>
+
+	<Pool 
+	Name="library"><!-- 图书馆-->
+
+	</Pool>
+
+	<Pool 
+	Name="ultraSecret"><!-- 红隐藏-->
+
+	</Pool>
+
+	<Pool 
+	Name="secret"><!-- 隐藏房-->
+
+	</Pool>
+
+	<Pool 
+	Name="curse"><!-- 刺房-->
+
+	</Pool>
+
+	<Pool 
+	Name="goldenChest"><!-- 金箱子-->
+	</Pool>
+
+	<Pool 
+	Name="oldChest"><!-- 旧箱子-->
+
+	</Pool>
+
+	<Pool 
+	Name="woodenChest"><!-- 木箱子-->
+
+	</Pool>
+
+	<Pool 
+	Name="greedBoss"><!-- 白宝箱房-->
+
+	</Pool>
+
+	<Pool 
+	Name="greedAngel"><!-- 贪婪天使房-->
+
+	</Pool>
+
+	<Pool 
+	Name="babyShop"><!-- 领养证明商店-->
+
+	</Pool>
+
+	<Pool 
+	Name="greedSecret"><!-- 贪婪隐藏房-->
+
+	</Pool>
+
+	<Pool 
+	Neme="greedShop"><!--贪婪商店-->
+
+	</Pool>
+
+	<Pool 
+	Name="greedTreasure"><!--贪婪宝箱房-->
+
+	</Pool>
+
+	<Pool 
+	Name="greedDevil"><!--贪婪恶魔房-->
+
+	</Pool>
+
+</ItemPools>
